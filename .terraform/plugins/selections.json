@@ -1,0 +1,10 @@
+{
+  "registry.terraform.io/hashicorp/google": {
+    "hash": "h1:fVcYhIs7M4HgRQ23kBlpKbmLK7UlzkcOxJidyDjPl8U=",
+    "version": "3.35.0"
+  },
+  "registry.terraform.io/hashicorp/null": {
+    "hash": "h1:l0/ASa/TB1exgqdi33sOkFakJL2zAQBu+q5LgO5/SxI=",
+    "version": "2.1.2"
+  }
+}
